@@ -5,7 +5,7 @@
 ## I am an undergraduate student of Informatics at ITS!
 
 - 🌱 I’m currently learning everything 🤩
-- 🏆 2021 Goals : Immediately publish my portfolio website 💖
+- 🏆 2022 Goals : Immediately publish my portfolio website 💖
 - ⚡ Fun fact: I love reading books with a target of at least one book a month 📚
 
 ### Connect with me:
