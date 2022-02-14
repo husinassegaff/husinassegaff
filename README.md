@@ -1,6 +1,6 @@
 ### Hi there, I'm Husin 👋
 
-<!-- [![Twitter Follow](https://img.shields.io/twitter/follow/husinassegafff?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhusinassegafff&screen_name=husinassegafff) -->
+[![Twitter Follow](https://img.shields.io/twitter/follow/husinassegafff?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhusinassegafff&screen_name=husinassegafff)
 
 ## I am an undergraduate student of Informatics at ITS!
 
@@ -38,7 +38,7 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=husinassegaff&count_private=true)
 
 [twitter]: https://twitter.com/husinassegafff
-[linkedin]: https://www.linkedin.com/in/husin-muhammad-assegaff-1b1843195/
+[linkedin]: https://www.linkedin.com/in/husinassegaff/
 [instagram]: https://www.instagram.com/husinassegaff/
 
 <!--
