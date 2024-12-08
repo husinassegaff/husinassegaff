@@ -2,12 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/husinassegafff?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fhusinassegafff&screen_name=husinassegafff)
 
-## I am an undergraduate student of Informatics at ITS!
-
-- 🌱 I’m currently learning everything 🤩
-- 🏆 2022 Goals : Immediately publish my portfolio website 💖
-- ⚡ Fun fact: I love reading books with a target of at least one book a month 📚
-
 ### Connect with me:
 
 [<img align="left" alt="husinassegafff | Twitter" width="25px" src="img/twitter.png" />][twitter]
